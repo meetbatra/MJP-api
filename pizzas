@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+    "imageUrl": "https://images.unsplash.com/photo-1601924582975-4c8b3a6c6b40",
     "title": "Pepperoni Fresh with Peppers",
     "description": "Spicy pepperoni with fresh bell peppers on a cheese-loaded base.",
     "types": [0, 1],
@@ -12,7 +12,7 @@
   },
   {
     "id": 1,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1548365328-9f547d9b7b7b",
     "title": "Cheese",
     "description": "Classic cheese pizza with a rich, creamy mozzarella blend.",
     "types": [0],
@@ -23,7 +23,7 @@
   },
   {
     "id": 2,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1594007654729-407eedc4be74",
     "title": "BBQ Chicken",
     "description": "Grilled chicken with smoky barbecue sauce and melty cheese.",
     "types": [0],
@@ -34,7 +34,7 @@
   },
   {
     "id": 3,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1613145998438-2d6e7f56155b",
     "title": "Sweet and Sour Chicken",
     "description": "Tangy and sweet chicken pieces topped with onions and sauce.",
     "types": [1],
@@ -45,7 +45,7 @@
   },
   {
     "id": 4,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1594007654729-407eedc4be74",
     "title": "Cheeseburger Pizza",
     "description": "All the flavors of a cheeseburger—beef, pickles, cheese—on a pizza.",
     "types": [0, 1],
@@ -56,7 +56,7 @@
   },
   {
     "id": 5,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1601924582975-4c8b3a6c6b40",
     "title": "Crazy Pepperoni",
     "description": "A bold overload of spicy pepperoni with extra cheese.",
     "types": [0],
@@ -67,7 +67,7 @@
   },
   {
     "id": 6,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add",
     "title": "Pepperoni",
     "description": "Crispy pepperoni slices with stretchy mozzarella on a golden crust.",
     "types": [0, 1],
@@ -78,7 +78,7 @@
   },
   {
     "id": 7,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1546554137-f86b9593a222",
     "title": "Margherita",
     "description": "Simple and fresh with tomato, basil, and mozzarella cheese.",
     "types": [0, 1],
@@ -89,7 +89,7 @@
   },
   {
     "id": 8,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1618213834800-5d6d5a7b2f9c",
     "title": "Four Seasons",
     "description": "A classic mix of four distinct toppings—one on each quarter.",
     "types": [0, 1],
@@ -100,7 +100,7 @@
   },
   {
     "id": 9,
-    "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+    "imageUrl": "https://images.unsplash.com/photo-1585238342028-4bbc3d6bd5d5",
     "title": "Vegetables and Mushrooms 🌱",
     "description": "A vegetarian delight packed with fresh veggies and mushrooms.",
     "types": [0, 1],
