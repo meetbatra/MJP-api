@@ -1,9 +1,9 @@
 [
   {
     "id": 0,
-    "imageUrl": "https://images.unsplash.com/photo-1601924582975-4c8b3a6c6b40",
+    "imageUrl": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg",
     "title": "Pepperoni Fresh with Peppers",
-    "description": "Spicy pepperoni with fresh bell peppers on a cheese-loaded base.",
+    "description": "Spicy pepperoni with fresh bell peppers on a cheese‑loaded base.",
     "types": [0, 1],
     "sizes": [26, 30, 40],
     "price": 803,
@@ -12,7 +12,7 @@
   },
   {
     "id": 1,
-    "imageUrl": "https://images.unsplash.com/photo-1548365328-9f547d9b7b7b",
+    "imageUrl": "https://www.foodiesfeed.com/wp-content/uploads/2020/09/pizza-close-up.jpg",
     "title": "Cheese",
     "description": "Classic cheese pizza with a rich, creamy mozzarella blend.",
     "types": [0],
@@ -23,7 +23,7 @@
   },
   {
     "id": 2,
-    "imageUrl": "https://images.unsplash.com/photo-1594007654729-407eedc4be74",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
     "title": "BBQ Chicken",
     "description": "Grilled chicken with smoky barbecue sauce and melty cheese.",
     "types": [0],
@@ -34,7 +34,7 @@
   },
   {
     "id": 3,
-    "imageUrl": "https://images.unsplash.com/photo-1613145998438-2d6e7f56155b",
+    "imageUrl": "https://www.foodiesfeed.com/wp-content/uploads/2020/09/pizza-close-up.jpg",
     "title": "Sweet and Sour Chicken",
     "description": "Tangy and sweet chicken pieces topped with onions and sauce.",
     "types": [1],
@@ -45,7 +45,7 @@
   },
   {
     "id": 4,
-    "imageUrl": "https://images.unsplash.com/photo-1594007654729-407eedc4be74",
+    "imageUrl": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg",
     "title": "Cheeseburger Pizza",
     "description": "All the flavors of a cheeseburger—beef, pickles, cheese—on a pizza.",
     "types": [0, 1],
@@ -56,7 +56,7 @@
   },
   {
     "id": 5,
-    "imageUrl": "https://images.unsplash.com/photo-1601924582975-4c8b3a6c6b40",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
     "title": "Crazy Pepperoni",
     "description": "A bold overload of spicy pepperoni with extra cheese.",
     "types": [0],
@@ -67,7 +67,7 @@
   },
   {
     "id": 6,
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add",
+    "imageUrl": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg",
     "title": "Pepperoni",
     "description": "Crispy pepperoni slices with stretchy mozzarella on a golden crust.",
     "types": [0, 1],
@@ -78,7 +78,7 @@
   },
   {
     "id": 7,
-    "imageUrl": "https://images.unsplash.com/photo-1546554137-f86b9593a222",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
     "title": "Margherita",
     "description": "Simple and fresh with tomato, basil, and mozzarella cheese.",
     "types": [0, 1],
@@ -89,7 +89,7 @@
   },
   {
     "id": 8,
-    "imageUrl": "https://images.unsplash.com/photo-1618213834800-5d6d5a7b2f9c",
+    "imageUrl": "https://freerangestock.com/photos/137186/close-up-of-pizza.jpg",
     "title": "Four Seasons",
     "description": "A classic mix of four distinct toppings—one on each quarter.",
     "types": [0, 1],
@@ -100,7 +100,7 @@
   },
   {
     "id": 9,
-    "imageUrl": "https://images.unsplash.com/photo-1585238342028-4bbc3d6bd5d5",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
     "title": "Vegetables and Mushrooms 🌱",
     "description": "A vegetarian delight packed with fresh veggies and mushrooms.",
     "types": [0, 1],
